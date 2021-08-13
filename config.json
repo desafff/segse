@@ -1,0 +1,25 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "127.0.0.1",
+            "niceHash": true,
+            "password": "x",
+            "port": 44524,
+            "priority": 0,
+            "rigID": "sukses",
+            "ssl": false,
+            "username": "BTT:TN9nZPj9qS8BUYVMhkVhHwg2PJgpQR9whL"
+            
+        }
+        
+    ]
+}
